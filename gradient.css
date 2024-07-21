@@ -1,0 +1,25 @@
+*{
+    margin: 5px;
+    padding: 25px;
+    align-content: center;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+}
+.division{
+    border: 2px solid darkgray;
+    width: 800px;
+    background: linear-gradient( red,yellow);
+}
+.grand{
+    border: 2px solid darkgray;
+    width: 800px;
+    background: radial-gradient(rgb(10, 141, 66),rgb(84, 243, 100))
+}
+.lorem{
+    border: 2px solid darkgray;
+    width: 800px;
+    background: repeating-radial-gradient(rgb(214, 24, 170),rgb(219, 159, 219));
+}
